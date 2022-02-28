@@ -1,6 +1,7 @@
 # Welcome to my Org :wave:
 
 Firstly, I'd like to show you one of my pictures, which may be a little bit serious......
+![image-20220228150233376](https://github.com/gtb-2022-li-jing/.github/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220228150033.jpg)
 
 
 ## Something About me :girl:
